@@ -1,3 +1,5 @@
+![business_card](https://github.com/jrostirolla/jrostirolla/blob/main/James Rostirolla (1).jpg?raw=true)
+
 ### Hi there 👋
 
 <!--
