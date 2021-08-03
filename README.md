@@ -16,7 +16,7 @@ I'm currently attending the Trinity Coding Bootcamp through UNSW to learn more
 * I've got a strong passion for helping people, and would love to work on something to help improve peoples way of life 
 
 ## Connections:
-***Email***: j_rostirolla@hotmail.com
+***Email***: james.rostirolla@outlook.com
 <br>
 ***Linkedin***: www.linkedin.com/in/james-rostirolla
 <br>
