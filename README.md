@@ -5,7 +5,7 @@ My name is James Rostirolla, but you can call me Jim (or Rusty, if you're countr
 <br>
 I'm a budding web developer exploring a new found passion for designing programs and building websites.
 <br>
-I'm currently attending the Trinity Coding Bootcamp through UNSW to learn more
+I've recently graduated from the Trinity Coding Bootcamp through UNSW and am excited to learn more!
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrostirolla&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrostirolla&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
